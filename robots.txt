@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dranthonymarte.github.io/essential-dental/sitemap.xml
